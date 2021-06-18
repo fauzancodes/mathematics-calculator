@@ -1,0 +1,94 @@
+/*global specification*/
+* {
+  font-family: 'Roboto', sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6, .text-title {
+  font-family: 'Roboto Slab', serif;
+}
+
+/*-------------------------*/
+/*bootstrap color adjusting*/
+.btn-primary {
+  border-color: #006BFF !important;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #006BFF !important;
+  color: #FFFFFF !important;
+}
+
+.bg-primary, .btn-primary {
+  background-color: #1E90FF !important;
+}
+
+.border-primary {
+  border-color: #1E90FF !important;
+}
+
+.text-primary, a {
+  color: #1E90FF !important;
+}
+
+.bg-dark {
+  background-color: #1D1D1D !important;
+}
+
+.bg-dark-transparent {
+  background-color: rgba(29, 29, 29, 0.75) !important;
+}
+
+.text-dark, .btn-primary {
+  color: #1D1D1D !important;
+}
+
+.btn-dark {
+  background-color: #1D1D1D !important;
+}
+
+.border-dark {
+  border-color: #1D1D1D !important;
+}
+
+.bg-light {
+  background-color: #FFFFFF !important;
+}
+
+.text-light, button > i {
+  color: #FFFFFF !important;
+}
+
+.border-light {
+  border-color: #FFFFFF !important;
+}
+
+.border-danger {
+  border-color: #FF0000 !important;
+}
+
+.text-danger {
+  color: #FF0000 !important;
+}
+
+.bg-secondary {
+  background-color: #DCDCDC !important;
+}
+
+.text-secondary {
+  color: #DCDCDC !important;
+}
+
+.border-secondary {
+  border-color: #DCDCDC !important;
+}
+
+a:hover {
+  color: #006BFF !important;
+}
+
+/*-------------------------*/
+/*# sourceMappingURL=style.css.map */
